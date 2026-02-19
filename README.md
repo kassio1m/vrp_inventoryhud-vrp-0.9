@@ -1,8 +1,48 @@
 # vrp_inventoryhud
 Drag and drop inventory hud for vRP 1
 
-You can support me on buy me a coffee.<br>
-[<img src="https://i.imgur.com/GfsNHfa.png" width="200" />](https://www.buymeacoffee.com/marinogabri)
+# 👋 Hi, I'm Kassio!
+
+Welcome to my GitHub profile! Here you'll find my projects, experiments, and contributions. 🚀  
+
+---
+
+## ❤️ Support My Work
+
+If my projects help you or you like what I do, consider supporting me on **GitHub Sponsors**:
+
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/kassio1m?label=Sponsor&style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/kassio1m)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Project One
+Short description about what this project does.
+
+### 🔹 Project Two
+Short description about what this project does.
+
+---
+
+## 🛠 Tech Stack
+
+- Lua
+- FiveM
+- ESX / vRP
+- Linux
+- MySQL
+
+---
+
+## 📫 Contact
+
+- 📧 Email: your@email.com  
+- 💬 Discord: yourdiscord#0000  
+
+---
+
+Thanks for visiting my profile! 🙌
 
 # Installation
 
